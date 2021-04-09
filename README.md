@@ -14,7 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+<<<<<<< HEAD
 ### `yarn test` 
+=======
+### `yarn test`
+>>>>>>> 17a0baeda37e3730630f1c3e79579a178b88e065
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
